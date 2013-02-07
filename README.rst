@@ -1,3 +1,10 @@
+:Author: Chmouel Boudjnah
+:Maintainer: Chmouel Boudjnah <chmouel@enovance.com>
+:Issues: https://github.com/enovance/swift-control-headers/issues
+:Source Code: https://github.com/enovance/swift-control-headers
+:License: Apache
+:Version: 0.1
+
 =====================
 Swift Control headers
 =====================
@@ -70,3 +77,8 @@ Quick Install
    header_`the_header` = acct_user_or_*=right
 
 The header is one you specify without the X-Meta the acct/user needs to be specified with acct:user
+
+TODO
+----
+
+- distinction between container/account/object headers.
